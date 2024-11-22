@@ -1,0 +1,1 @@
+Average of the above numbers is: 23.0
